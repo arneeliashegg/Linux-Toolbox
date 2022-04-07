@@ -1,5 +1,3 @@
-# This is my readme file.
-And this is the second line.
-
-## Here are my dotfiles
-* .vimrc
+# Linux-Toolbox
+## A set of useful files and tools.
+Created by Arne Elias Hegghammer
