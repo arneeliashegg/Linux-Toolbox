@@ -1,0 +1,28 @@
+[global_config]
+  title_transmit_bg_color = "#5e5c64"
+  title_receive_bg_color = "#000000"
+  title_inactive_bg_color = "#5e5c64"
+  inactive_color_offset = 1.0
+  title_use_system_font = False
+  title_font = Source Code Pro 20
+[keybindings]
+[profiles]
+  [[default]]
+    background_color = "#202020"
+    background_darkness = 1.0
+    background_type = transparent
+    cursor_color = "#aaaaaa"
+    font = Source Code Pro 20
+    foreground_color = "#ffffff"
+    palette = "#000000:#cd0000:#00cd00:#cdcd00:#0000ee:#cd00cd:#00cdcd:#e5e5e5:#7f7f7f:#ff0000:#00ff00:#ffff00:#5c5cff:#ff00ff:#00ffff:#ffffff"
+    use_system_font = False
+    bold_is_bright = True
+[layouts]
+  [[default]]
+    [[[window0]]]
+      type = Window
+      parent = ""
+    [[[child1]]]
+      type = Terminal
+      parent = window0
+[plugins]
